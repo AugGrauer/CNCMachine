@@ -138,9 +138,9 @@ M30
 4. Flash GRBL
 5. Troubleshoot and Test UGS
 
-   There is no exact guide (Yet?) but if you have questions, please create an issue here, leave a comment on our videos, or even email us.
+There is no exact guide (Yet?) but if you have questions, please create an issue here, leave a comment on our videos, or even email us.
 
-   Here is the link our video playlist explaining it: https://www.youtube.com/watch?v=x9RqWOT4NOQ&list=PLWdkqCAyfFqSBZGNOKGVb3XG4A6ohDbLp
+Here is the link our video playlist explaining it: https://www.youtube.com/watch?v=x9RqWOT4NOQ&list=PLWdkqCAyfFqSBZGNOKGVb3XG4A6ohDbLp
 
 ## Media
 
