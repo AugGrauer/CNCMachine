@@ -4,8 +4,11 @@ Open source repository for the CNC machine built by Backyard Shed Engineering (h
 
 ## Specifications
   Buildplate: 16x18x1 in 
+  
   Capable of cutting 6061 Aluminium and softer.
+  
   120V Power
+  
   Total Size:
   
 
