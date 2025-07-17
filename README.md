@@ -2,6 +2,7 @@
 Open source repository for the CNC machine built by Backyard Shed Engineering (https://www.youtube.com/@ShedStuffBuiltHere)
 
 
+
 ## Specifications
   Buildplate: 16x18x1 in 
   
@@ -10,7 +11,9 @@ Open source repository for the CNC machine built by Backyard Shed Engineering (h
   120V Power
   
   Total Size:
-  
+## BOM
+BOM is in repository and also here:
+https://docs.google.com/spreadsheets/d/1JcS2ukq2nQpIpGEV6_Kvxhg6B4QogmMNbcgQQ2et4MQ/edit?usp=sharing
 
 # Use
   We have created this repository in order to make our CNC project as open source as possible. We were really proud to do this project for under $1000, and we want others to be able to as well. Feel free to use this as a basis to design your own, or to simply make your own version of our machine. We have included the BOM, all of our 3D models used, and our wiring diagram, as well as a few extra resources and our advice. We have further explanations on our youtube channel. ⏯️
