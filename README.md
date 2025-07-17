@@ -22,5 +22,31 @@ Open source repository for the CNC machine built by Backyard Shed Engineering (h
      - These never worked on our machine. We don't know why. We just don't use them.
       ### **FIX**
        - Don't use
+  5. Weird GCode ✅
+     - There are a few weird little GCode quirks that we have to deal with to operate. Shown here is what the start and end of our GCode looks like. This works. Obviously it will be different depending on position, tool, etc but the start and end remain the same. Make sure your code looks similar/the same, as you run the risk of breaking a bit if not. If it looks different, I'd suggest running the code without a bit, to ensure nothing will break before cutting.
+### START
+```
+  (10022) # Program number (Changes)
+  G90 G94
+  G17
+  G21
+  (Ramp1) #This will be different depending on your action
+  T1
+  S5000 M3
+  G17 G90 G94
+  G54
+  G0 Z15 #This is critical. This MUST be before the following line. This retracts the toolhead BEFORE moving XY
+  G0 X-28.057 Y-2.102 # this changes
+```
+### END
+```
+G0 Z15
+    # Usually there is an extra line here. Make sure to delete that, as it homes the machine, which can break bits. 
+M30
+```
+  ### **FIX**
+  - Change GCode every time. You could also write a program to do this. We will share that if we end up doing this.
 
-#
+## Assembly
+  There is no strict assembly guide for this machine. We tried to document roughly our steps in the videos on our channel, but there are a lot of nuances and tricks needed that simply arent documented. Be prepared for sanding, and some weird assemblies. In order to cut aluminium, we had to manually machine multiple parts, such as the Z axis plates, the entire aluminium base of the buildplate, and the Z traveller mount. We do not reccomend this for entry level builds. If you have some time, a 3D printer, and some experience in the STEM/3D printing fields, this is very doable. All of the parts we used are in the BOM, and if you follow the 3D model, it should be pretty straightfoward. It took us a total of 35 hours to build this machine, but we were doing other things and not 100% focused for much of it, in addition to haivng to test multiple parts. If you have questions, reach out to us via youtube, or create an issue here. We recommend looking at some youtube tutorials for parts you don't quite understand. There are great ones which let us teach ourselves GRBL and fusion 360 manufacturing.
+
