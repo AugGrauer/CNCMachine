@@ -1,7 +1,15 @@
 # CNCMachine
 Open source repository for the CNC machine built by Backyard Shed Engineering (https://www.youtube.com/@ShedStuffBuiltHere)
 
-## Use
+
+## Specifications
+  Buildplate: 16x18x1 in 
+  Capable of cutting 6061 Aluminium and softer.
+  120V Power
+  Total Size:
+  
+
+# Use
   We have created this repository in order to make our CNC project as open source as possible. We were really proud to do this project for under $1000, and we want others to be able to as well. Feel free to use this as a basis to design your own, or to simply make your own version of our machine. We have included the BOM, all of our 3D models used, and our wiring diagram, as well as a few extra resources and our advice. We have further explanations on our youtube channel. ⏯️
 
 ## Known Issues
@@ -48,5 +56,5 @@ M30
   - Change GCode every time. You could also write a program to do this. We will share that if we end up doing this.
 
 ## Assembly
-  There is no strict assembly guide for this machine. We tried to document roughly our steps in the videos on our channel, but there are a lot of nuances and tricks needed that simply arent documented. Be prepared for sanding, and some weird assemblies. In order to cut aluminium, we had to manually machine multiple parts, such as the Z axis plates, the entire aluminium base of the buildplate, and the Z traveller mount. We do not reccomend this for entry level builds. If you have some time, a 3D printer, and some experience in the STEM/3D printing fields, this is very doable. All of the parts we used are in the BOM, and if you follow the 3D model, it should be pretty straightfoward. It took us a total of 35 hours to build this machine, but we were doing other things and not 100% focused for much of it, in addition to haivng to test multiple parts. If you have questions, reach out to us via youtube, or create an issue here. We recommend looking at some youtube tutorials for parts you don't quite understand. There are great ones which let us teach ourselves GRBL and fusion 360 manufacturing.
+  There is no strict assembly guide for this machine. We tried to document roughly our steps in the videos on our channel, but there are a lot of nuances and tricks needed that simply arent documented. Be prepared for sanding, and some weird assemblies. In order to cut aluminium, we had to manually machine multiple parts, such as the Z axis plates, the entire aluminium base of the buildplate, and the Z traveller mount. We do not reccomend this for entry level builds. If you have some time, a 3D printer, and some experience in the STEM/3D printing fields, this is very doable. All of the parts we used are in the BOM, and if you follow the 3D model, it should be pretty straightfoward. It took us a total of 35 hours to build this machine, but we were doing other things and not 100% focused for much of it, in addition to haivng to test multiple parts. If you have questions, reach out to us via youtube, or create an issue here. We recommend looking at some youtube tutorials for parts you don't quite understand. There are great ones which let us teach ourselves GRBL and Fusion 360 manufacturing/slicing.
 
