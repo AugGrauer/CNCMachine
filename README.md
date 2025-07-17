@@ -7,6 +7,10 @@ Open source repository for the CNC machine built by [Backyard Shed Engineering](
 This is a fully self-funded, opensource project done by two highschoolers. While we have tried our best to document everything, and make it as accessible as we can, there is still an aspect of DIY to this project. Before building, please study the CAD models provided. If you run into problems, open an issue and we will try to respond and improve this guide.
 
 This machine is mostly 3D printed. 3D printer access is required. 
+## License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+
+Feel free to use this as a basis for your own project, or replicate it!
 
 ## Table of Contents
 - [Specifications](#specifications)
@@ -41,10 +45,6 @@ This machine is mostly 3D printed. 3D printer access is required.
   Power Requirements: 120V
   
 
-## License
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-
-Feel free to use this as a basis for your own project, or replicate it!
 
 ## BOM
 BOM is in the repository and also here:
