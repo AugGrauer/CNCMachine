@@ -66,7 +66,7 @@ https://docs.google.com/spreadsheets/d/1JcS2ukq2nQpIpGEV6_Kvxhg6B4QogmMNbcgQQ2et
        - We don't have a 100% fix, but if you plan to overcut by .1/.2mm, everything should cut through. If you don't want to do that, it is pretty easy to break the last little layer off and get a clean part.
   3. Alarms ✅
      - This machine alarms a decent amount. Don't be too alarmed (See what I did there). If you are using UGS/GRBL like we did, you can reset and unlock the machine to continue. Usually alarms occur due to a voltage change, or a serious problem. After frequent use and learning, we found that most of our alarms occur when turning on the router. This is pretty easy to work with, as we just reset and continue. If your machine is constantly alarming, test it for voltage differences/charges in weird places. Try insulating. The limit switches are USUALLY not actually the problem.
-    ### **FIX**
+      ### **FIX**
        - Reset and unlock machine. If that doesn't work, test and insulate/ground different areas. Limit switches are pretty reliable for us, so that was almost never the issue.
   4. Soft Limits ✅
      - These never worked on our machine. We don't know why. We just don't use them.
