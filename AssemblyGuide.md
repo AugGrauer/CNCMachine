@@ -82,7 +82,7 @@ The Z Axis is a pretty important part. We chose to hand cut a lot of components 
 	
  	6 Attach Leadscrew nut/traveller to the x nut holder. 
 	
- 	7 Connect the Z front plate and the Z back plate by attaching the Z axis stepper holder and the x nut holder. We used 2 5mm plates of aluminum to create the x nut holder. Using the stencil, we screwed them together tightly with M3.5 screws and drilled holes in the side to attach, then mounted it to the machine immediately. This is weird so ask us any questions. Also connect this all with the Z spacers (standoffs) in the top 2 holes and bottom left.
+ 	7 Connect the Z front plate and the Z back plate by attaching the Z axis stepper holder and the x nut holder. We used 2 5mm plates of aluminum to create the x nut holder. Using the stencil, we screwed them together tightly with M3.5 screws and drilled holes in the side to attach, then mounted it to the machine immediately. This is weird so ask us any questions. Also connect this all with the Z spacers (standoffs) in bottom 3 holes.
 	
  	8 Mount stepper motor.
 
