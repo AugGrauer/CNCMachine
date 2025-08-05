@@ -48,31 +48,42 @@ We also printed:
 
 The Z Axis is a pretty important part. We chose to hand cut a lot of components for this out of aluminium, to ensure its rigidity and reliability. We also have 3d models for this to act as stencils or maybe work instead. 
 
+
 ### Parts Made:
-	1x Clamp base
-	1x Clamp 
-	1x Z Limit holder
-  	1x Z stepper holder
+
+	1x back router clamp
+	
+ 	1x front router camp 
+	
+ 	1x Z Limit switch holder
+	
+ 	1x Z stepper holder
+
 	8x Z screw spacer
+ 
 	1x Z Front plate (Aluminium, Stencil?)
+ 
 	1x Z Back plate (Aluminium, Stencil?)
-	1x Z Axis travel holder (Aluminium, Stencil?)
+ 
+	1x x nut holder (Aluminium, Stencil?)
 ### Assembly
-  	1 Screw in the linear rails along the side. Ensure that there are 2 carriages on each rail.This installation used M3-M3.5 Screws (See multipack). These should line up with the holes in the Z front plate.
-  
-  	2 Next, we screwed in the leadscrew, which should fit in the predefined holes.
-  
-  	3 Mount the Clamp base onto the carriages. 
-  
-  	4 Mount the Z axis holder onto the bottom of the Z Front plate. 
-  
-  	5 Attach the carriages to the back of the Z front plate using M5X16 screws and the Z axis screw spacers. 
-  
-  	6 Attach Leadscrew nut/traveller to the Z axis travel holder. 
-  
-  	7 Connect the Z front plate and the Z back plate by attaching the Z axis stepper holder and the Z axis travel holder. 
-  
-  	8 Mount stepper motor.
+
+	1 Screw in the linear rails along the side. Ensure that there are 2 carriages on each rail.This installation used M3-M3.5 Screws (See multipack). These should line up with the holes in the Z front plate.
+	
+ 	2 Next, we screwed in the leadscrew, which should fit in the predefined holes.
+	
+ 	3 Mount the back router clamp onto the carriages. 
+	
+ 	4 Mount the Z limit holder onto the bottom of the Z Front plate. 
+	
+ 	5 Attach the carriages to the back of the Z front plate using M5X16 screws and the Z axis screw spacers. 
+	
+ 	6 Attach Leadscrew nut/traveller to the x nut holder. 
+	
+ 	7 Connect the Z front plate and the Z back plate by attaching the Z axis stepper holder and the x nut holder. We used 2 5mm plates of aluminum to create the x nut holder. Using the stencil, we screwed them together tightly with M3.5 screws and drilled holes in the side to attach, then mounted it to the machine immediately. This is weird so ask us any questions.
+	
+ 	8 Mount stepper motor.
+
 
 ## STEP 3: ½ OF X GANTRY
 
