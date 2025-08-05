@@ -66,6 +66,8 @@ The Z Axis is a pretty important part. We chose to hand cut a lot of components 
 	1x Z Back plate (Aluminium, Stencil?)
  
 	1x x nut holder (Aluminium, Stencil?)
+
+  	3x Z spacers
 ### Assembly
 
 	1 Screw in the linear rails along the side. Ensure that there are 2 carriages on each rail.This installation used M3-M3.5 Screws (See multipack). These should line up with the holes in the Z front plate.
@@ -80,7 +82,7 @@ The Z Axis is a pretty important part. We chose to hand cut a lot of components 
 	
  	6 Attach Leadscrew nut/traveller to the x nut holder. 
 	
- 	7 Connect the Z front plate and the Z back plate by attaching the Z axis stepper holder and the x nut holder. We used 2 5mm plates of aluminum to create the x nut holder. Using the stencil, we screwed them together tightly with M3.5 screws and drilled holes in the side to attach, then mounted it to the machine immediately. This is weird so ask us any questions.
+ 	7 Connect the Z front plate and the Z back plate by attaching the Z axis stepper holder and the x nut holder. We used 2 5mm plates of aluminum to create the x nut holder. Using the stencil, we screwed them together tightly with M3.5 screws and drilled holes in the side to attach, then mounted it to the machine immediately. This is weird so ask us any questions. Also connect this all with the Z spacers (standoffs) in the top 2 holes and bottom left.
 	
  	8 Mount stepper motor.
 
