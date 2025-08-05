@@ -67,7 +67,7 @@ The Z Axis is a pretty important part. We chose to hand cut a lot of components 
  
 	1x x nut holder (Aluminium, Stencil?)
 
-  	3x Z spacers
+  	3x Z spacers (standoffs)
 ### Assembly
 
 	1 Screw in the linear rails along the side. Ensure that there are 2 carriages on each rail.This installation used M3-M3.5 Screws (See multipack). These should line up with the holes in the Z front plate.
@@ -135,6 +135,8 @@ We also used our ½ in bar and cut
   	8 Attach X stepper to X leadscrew using clamp, then push through hole on X gantry side. Make sure it goes through the traveller, then into the Left leadscrew endstop (Use the two parts of this to clamp the inside and outside), which is attached opposite the stepper motor. (The stepper motor should be on the stepper holder). Secure stepper motor. 
   
   	9 Push Y lead screws through the bottom nut holder located on the bottom of the X gantry. Secure to stepper motor. 
+   	
+    	10 Add the wire holders spaced along the bottom of the X gantry. You'll want to already have the wire in here if you plan to do it this way. Next, attach the cable chain to the top X bar.
 
 
 
