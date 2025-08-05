@@ -112,7 +112,7 @@ Use this guide, with the 3D model, youtube videos, and 3d model guide, to get th
 
 
 ### CAD Models:
-  [Found Here](https://github.com/AugGrauer/CNCMachine/tree/c9973d6ad02c3cf29ccf315ba2bd43aa739bddab/3D%20Models)
+  [Found Here]([https://github.com/AugGrauer/CNCMachine/tree/c9973d6ad02c3cf29ccf315ba2bd43aa739bddab/3D%20Models](https://github.com/AugGrauer/CNCMachine/tree/823ef2db97a0531feb1171109dd2441a3dbac2b9/3D%20Models))
   
   Our CAD models are categorized by:
   - Imports (This is largely just parts we used to build the machine)
@@ -120,7 +120,7 @@ Use this guide, with the 3D model, youtube videos, and 3d model guide, to get th
   - Assemblies (Larger models, such as the Base and Z axis)
   
 ### Wiring:
-[Found Here](https://github.com/AugGrauer/CNCMachine/tree/c9973d6ad02c3cf29ccf315ba2bd43aa739bddab/Wiring)
+[Found Here]([https://github.com/AugGrauer/CNCMachine/tree/c9973d6ad02c3cf29ccf315ba2bd43aa739bddab/Wiring](https://github.com/AugGrauer/CNCMachine/tree/823ef2db97a0531feb1171109dd2441a3dbac2b9/Wiring))
 
   We have provided our wiring diagram above. We also created a custom electrical box for these wires, but that is entirely optional. See docs in wiring folder for more info. 
   
