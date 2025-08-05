@@ -1,6 +1,6 @@
 # 3D Model Guides
 
-Full assembly is in the main folder, and subassemblies in their respective ones.
+Full assembly is in the main folder, and subassemblies in their respective ones. We used Overture SuperPLA+ and PLA professional for this project. Around 2.5 rolls. 
 
 ## B - Base
 ## X - X Axis
