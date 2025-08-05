@@ -150,7 +150,21 @@ Here is the link our video playlist explaining it: https://www.youtube.com/watch
 
 ## Media
 
-[Images here]
+CAD:
+
+![/Images/Screenshot 2025-08-05 161051.jpg)](https://github.com/AugGrauer/CNCMachine/blob/f078ef5240b4ba9029d039d6e4ce51d89eae9cbd/Images/Screenshot%202025-08-05%20161051.jpg))
+
+Base:
+
+![base](https://github.com/AugGrauer/CNCMachine/blob/3b913457dd42f3dcf5df5fe91df188e24ebf37b9/Images/thumbnail_IMG_5916.jpg)
+
+In Progress:
+
+![progress](https://github.com/AugGrauer/CNCMachine/blob/3b913457dd42f3dcf5df5fe91df188e24ebf37b9/Images/thumbnail_IMG_6067.jpg)
+
+Full build:
+
+![full)](https://github.com/AugGrauer/CNCMachine/blob/3b913457dd42f3dcf5df5fe91df188e24ebf37b9/Images/thumbnail_IMG_5039.jpg)
 
 ## Contributing 🔨
   We welcome any progress, changes, and suggestions. We definitely want to improve and build upon both this machine and open source project.
