@@ -103,7 +103,7 @@ M30
   
   We tried to document roughly our steps in the videos on our channel, but there are a lot of nuances and tricks needed that simply arent documented. Be prepared for sanding, and some weird assemblies. In order to cut aluminium, we had to manually machine multiple parts, such as the Z axis plates, the entire aluminium base of the buildplate, and the Z traveller mount. We do not recommend this for entry level builds. If you have some time, a 3D printer, and some experience in the STEM/3D printing fields, this is very doable. All of the parts we used are in the BOM, and if you follow the 3D model, it should be pretty straight forward. It took us a total of 35 hours to build this machine, but we were doing other things and not 100% focused for much of it, in addition to having to test multiple parts. If you have questions, reach out to us via youtube, or create an issue here. We recommend looking at some youtube tutorials for parts you don't quite understand. There are great ones which let us teach ourselves GRBL and Fusion 360 manufacturing/slicing. 
 
-## **We have created a guide whcih outlines the assembly as best we can. Find it in AssemblyGuide.md**
+## **We have created a guide which outlines the assembly as best we can. Find it in AssemblyGuide.md**
 
 Use this guide, with the 3D model, youtube videos, and 3d model guide, to get the best idea of how to build this.
 
