@@ -21,6 +21,8 @@ Full assembly is in the main folder, and subassemblies in their respective ones.
   
   Limit switch leg: leg with limit switch.
 
+  Slide hole center: center little thing to center hole punch in rails/slides
+
 ## X
   
   Left inner wall leadscrew endstop: Inside wall side of the extender which attached to the X leadscrew
